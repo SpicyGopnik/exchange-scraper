@@ -12,7 +12,7 @@ https://www.python.org/downloads/
 <li>Clone this repository to your local machine:
 
 ```
-git clone https://github.com/RealBungee/gate.io-article-scraper.git
+https://github.com/SpicyGopnik/exchange-scraper.git
 ```
 
 
